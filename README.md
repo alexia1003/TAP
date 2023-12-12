@@ -1,2 +1,2 @@
 Onose Alexia 
-Informatica grupa 2
+Informatica an 2 grupa 2
