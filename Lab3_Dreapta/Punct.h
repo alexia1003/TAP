@@ -18,7 +18,7 @@ public:
     ~Punct();
     static Punct centruDeGreutate(const std::vector<Punct>& vectorPuncte);
 
-    // Adăugă metodele publice pentru accesarea membrilor privați
+    // metode publice pt campuri private
     static int getNrPunctePeDreapta();
     static int getNrPuncteSemiplanPozitiv();
     static int getNrPuncteSemiplanNegativ();
