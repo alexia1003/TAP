@@ -84,17 +84,17 @@ int main() {
     // Fractia initializata cu 0/1
     Fractie fractie1;
     cout << "Fractie 1: ";
-    fractie1.afiseazaFractie();  // Output: 0/1
+    fractie1.afiseazaFractie(); 
 
-    // Fractia initializata cu numaratorul 3 si numitorul implicit 1
+    // Fractia initializata cu numaratorul 3 si numitorul 1
     Fractie fractie2(3);
     cout << "Fractie 1: ";
-    fractie2.afiseazaFractie();  // Output: 3/1
+    fractie2.afiseazaFractie();  
 
     // Fractia initializata cu numaratorul 2 si numitorul 5
     Fractie fractie3(2, 5);
     cout << "Fractie 1: ";
-    fractie3.afiseazaFractie();  // Output: 2/5
+    fractie3.afiseazaFractie();  
 
     Fractie fractieOriginala(4, 7);
     Fractie fractieNoua(fractieOriginala); // Utilizarea constructorului de copiere
