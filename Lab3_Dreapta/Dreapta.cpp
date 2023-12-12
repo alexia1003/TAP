@@ -18,5 +18,5 @@ Dreapta::~Dreapta() {
 
 // Metoda afișare ecuatia dreptei
 void Dreapta::afiseazaEcuatie() const {
-    std::cout << "Ecuația dreptei: y = " << m << "x + " << n << "\n";
+    cout << "Ecuația dreptei: y = " << m << "x + " << n << "\n";
 }
