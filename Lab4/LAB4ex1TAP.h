@@ -14,7 +14,8 @@ public:
     Fractie(int numarator);
     Fractie(int numarator, int numitor);
     Fractie(const Fractie& other);
-
+    Fractie(int nr = 0, int nm = 1);
+    
     void afiseazaFractie() const;
 
     // Operatii de baza
