@@ -60,7 +60,9 @@ int main() {
     }
     cout << endl;
 
-    // eliberare mem. aloc. pr. vector
+    
+    // eliberare mem. aloc. pt. vectori
+    delete[] puncte2DArray;
     delete[] puncte3DArray;
 
     return 0;
