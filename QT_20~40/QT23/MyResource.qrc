@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Simpleicons-Team-Simple-Go.512.png</file>
+        <file>Ionic-Ionicons-Home.512.png</file>
+        <file>Ionic-Ionicons-Enter.512.png</file>
+    </qresource>
+</RCC>
