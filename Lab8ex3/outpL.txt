@@ -1,0 +1,10 @@
+Linia 1:
+  cuvant: 1
+
+Linia 2:
+  cuv: 1
+
+Linia 3:
+  cuv: 1
+  cuvant: 2
+
